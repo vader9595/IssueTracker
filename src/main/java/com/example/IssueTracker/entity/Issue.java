@@ -1,9 +1,9 @@
 package com.example.IssueTracker.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-import org.springframework.scheduling.config.Task;
+
+
+
+import javax.persistence.*;
 
 import java.util.UUID;
 
